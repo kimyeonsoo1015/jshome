@@ -1,0 +1,24 @@
+h1 {
+  color: rgb(61, 154, 190);
+  font-size: 50px;
+}
+
+body {
+  background-color: bisque ;
+  text-align: center;
+}
+
+h3 {
+  color: coral;
+  font-size: 25px;
+}
+
+a:link, a:visited {
+  font-size: 20px;
+  color: rgb(94, 44, 173);
+  text-decoration: none;
+}
+
+a:hover {
+  font-size: 15px;
+}

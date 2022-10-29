@@ -1,0 +1,18 @@
+h1 {
+    background-color: darkblue;
+    color: yellow;
+}
+
+th {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+table, th, td {
+    border: 1px solid rgb(15, 15, 15);
+    border-collapse: collapse;
+    text-align: center;
+    padding: 10px;
+
+
+}
