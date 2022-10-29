@@ -1,6 +1,5 @@
 h1 {
-  color: rgb(61, 154, 190);
-  font-size: 50px;
+  color: rgb(1, 5, 7);
 }
 
 body {
@@ -20,5 +19,17 @@ a:link, a:visited {
 }
 
 a:hover {
-  font-size: 15px;
+  font-size: 30px;
+  font-weight: bolder;
+  text-decoration: underline;
+  color: rgb(33, 139, 189);
+}
+
+#frame {
+  background-color: white;
+  width: 370px;
+  margin: auto;
+  padding: 30px;
+  border-radius: 30px;
+  margin-top: 30px;
 }
